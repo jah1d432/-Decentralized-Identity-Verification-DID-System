@@ -57,6 +57,6 @@ To create a permissionless, privacy-preserving identity verification framework f
 
 ## Contact
 
-Address: 0x1d3472E48222F8Ce7c541d502309AF577b5A959b
+- **Address:** 0x1d3472E48222F8Ce7c541d502309AF577b5A959b
 
 
