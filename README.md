@@ -6,7 +6,7 @@
 - [Project Vision](#project-vision)
 - [Future Scope](#future-scope)
 - [Key Features](#key-features)
-  [contact](#contact)
+- [contact](#contact)
   
 ---
 
@@ -57,4 +57,6 @@ To create a permissionless, privacy-preserving identity verification framework f
 
 ## Contact
 
-Address:
+Address: 0x1d3472E48222F8Ce7c541d502309AF577b5A959b
+
+
