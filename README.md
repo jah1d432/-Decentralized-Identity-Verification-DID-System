@@ -6,16 +6,17 @@
 - [Project Vision](#project-vision)
 - [Future Scope](#future-scope)
 - [Key Features](#key-features)
-
+  [contact](#contact)
+  
 ---
 
-## 📌 Project Title
+## Project Title
 
 **Decentralized Identity Verification (DID) System on Core DAO**
 
 ---
 
-## 📖 Project Description
+## Project Description
 
 A blockchain-based decentralized identity system built to securely verify user identities while preserving their privacy using zero-knowledge proofs (ZKPs). This system enables users to submit identity commitments off-chain and have their identity verified on-chain by authorized verifiers — all without revealing sensitive personal data.
 
@@ -23,7 +24,7 @@ Built on the Core DAO blockchain, the system leverages the network's fast and se
 
 ---
 
-## 🎯 Project Vision
+## Project Vision
 
 To create a permissionless, privacy-preserving identity verification framework for decentralized applications, DAOs, and DeFi platforms. By allowing off-chain proof generation and on-chain verification, the system aims to:
 
@@ -33,7 +34,7 @@ To create a permissionless, privacy-preserving identity verification framework f
 
 ---
 
-## 🚀 Future Scope
+## Future Scope
 
 - ✅ Integration with ZK proof libraries like Semaphore or Zokrates
 - ✅ Interoperable identity bridging across EVM-compatible chains
@@ -43,7 +44,7 @@ To create a permissionless, privacy-preserving identity verification framework f
 
 ---
 
-## 🔑 Key Features
+## Key Features
 
 - 🧾 **Decentralized Verification**: Verifiers can verify user identity without accessing sensitive data.
 - 🧠 **Zero-Knowledge Support**: Store only ZK proof hashes or commitments, not actual identity data.
@@ -54,6 +55,6 @@ To create a permissionless, privacy-preserving identity verification framework f
 
 ---
 
-## Contract
+## Contact
 
 Address:
